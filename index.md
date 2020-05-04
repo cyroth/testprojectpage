@@ -4,8 +4,6 @@ Just a test
 
 ### Markdown
 
-[links work like this](https://example.com)
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -18,7 +16,5 @@ Just a test
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://example.com) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
